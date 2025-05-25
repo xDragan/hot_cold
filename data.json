@@ -1,0 +1,19 @@
+{
+  "dia": {
+    "id": "20250525",
+    "texto": "Tortilla con o sin cebolla",
+    "imagen": "https://drive.google.com/uc?export=view&id=1Q-TuDIv_vUXthNZ71S-ygVGApWw8GLyq",
+    "emoji_arriba": "🧅",
+    "emoji_abajo": "🚫",
+    "Con cebolla": "56%",
+    "Sin cebolla": "44%"
+  },
+  "extra": {
+    "texto": "Cine o sofá en casa",
+    "imagen": "https://drive.google.com/uc?export=view&id=1Gyk1J-ev4CNXfNMoEmTLfSlWSxFmNCrN",
+    "emoji_arriba": "🎬",
+    "emoji_abajo": "🛋️",
+    "Cine": "34%",
+    "En casa": "66%"
+  }
+}
